@@ -18,7 +18,7 @@ Source : https://picsum.photos/
 - UI libs : Reactstrap
 - Redux-Persist
 
-## Tổ chức folder
+## Structure folder
 
 ```
 src
